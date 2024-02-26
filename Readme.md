@@ -27,13 +27,6 @@ This is a simple calculator built using HTML, CSS, and JavaScript. It provides b
 
 4. Start using the calculator to perform calculations.
 
-## Screenshots
-
-![Calculator Screenshot](screenshots/screenshot.png)
-
-## Demo
-
-You can view a live demo of the calculator [here](https://jscalculatorpm.netlify.app/).
 
 ## Contributing
 
